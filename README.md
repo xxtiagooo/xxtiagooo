@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Science student at Instituto Superior Técnico - LIsbon<br>
+🎓 Computer Science student at Instituto Superior Técnico - LIsbon
 
 
 # 💻 Tech Stack:
